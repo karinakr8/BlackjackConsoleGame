@@ -8,3 +8,5 @@ A round of blackjack:
 4) Player decides how to play hand
 5) Dealer plays hand
 6) Payouts
+
+Don't lose all your money! :[
